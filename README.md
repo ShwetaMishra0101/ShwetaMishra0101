@@ -11,7 +11,7 @@
 <li>🌱 I’m currently learning React.js</li>
 <li>👨‍💻 All of my projects are available at <a href="">My Protfolio</a></li>
 <li>📫 How to reach me <a href="shweta.aith@gmail.com">shweta.aith@gmail.com</a></li>
-<li>📄 Know about my experiences <a href="www.linkedin.com/in/shweta-mishra-66b8731a1">Linkedin</a></li>
+<li>📄 Know about my experiences <a href="https://linkedin.com/in/shweta-mishra-66b8731a1">Linkedin</a></li>
 
 <li>⚡Currently: Full Stack Web-Development from Masai School. B.Tech from Dr. Ambedikar Institue of Technoloy fo Handicaped, Kanpur</li>
 <h1>I'm Currently Learning <img height="30px" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/> </h1>
