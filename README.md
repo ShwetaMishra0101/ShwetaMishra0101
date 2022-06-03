@@ -27,11 +27,12 @@
 <img src="https://camo.githubusercontent.com/9a7c7ebbabb2096c0ad0cac6f64bc9fe93f4954a3ae3f51d6f3e076ba462aab1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"/>
 
 <a href="https://getbootstrap.com/"></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starydv7&show_icons=true&locale=en&layout=compact" alt="ShwetaMishra0101" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starydv7&show_icons=true&locale=en" alt="ShwetaMishra0101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShwetaMishra0101&show_icons=true&locale=en" alt="ShwetaMishra0101" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starydv7&" alt="ShwetaMishra0101" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaMishra0101&" alt="ShwetaMishra0101" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShwetaMishra0101&show_icons=true&locale=en&layout=compact" alt="ShwetaMishra0101" /></p>
 
 
 </div>
