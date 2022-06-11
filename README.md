@@ -9,9 +9,9 @@
 <h3>🙋‍♂️ About Me</h3>
 <p>I am a Full-Stack Web Developer and I love Programming and Gardning.</p>
 <li>🌱 I’m currently learning React.js</li>
-<li>👨‍💻 All of my projects are available at <a href="https://shweta-mishra-portfolio.netlify.app">My Protfolio</a></li>
+<li>👨‍💻 All of my projects are available at <a href="https://shweta-mishra-portfolio.netlify.app" target="_blank">My Protfolio</a></li>
 <li>📫 How to reach me <a href="shweta.aith@gmail.com">shweta.aith@gmail.com</a></li>
-<li>📄 Know about my experiences <a href="https://linkedin.com/in/shweta-mishra-66b8731a1">Linkedin</a></li>
+<li>📄 Know about my experiences <a href="https://linkedin.com/in/shweta-mishra-66b8731a1" target="_blank">Linkedin</a></li>
 
 <li>⚡Currently: Full Stack Web-Development from Masai School. B.Tech from Dr. Ambedikar Institue of Technoloy fo Handicaped, Kanpur</li>
 <h1>I'm Currently Learning <img height="30px" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/> </h1>
@@ -26,9 +26,9 @@
 
 <img src="https://camo.githubusercontent.com/9a7c7ebbabb2096c0ad0cac6f64bc9fe93f4954a3ae3f51d6f3e076ba462aab1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"/>
 
-<a href="https://getbootstrap.com/"></a>
+<a href="https://getbootstrap.com/" target="_blank"></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShwetaMishra0101&show_icons=true&locale=en" alt="ShwetaMishra0101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShwetaMishra0101&show_icons=true&locale=en"target="_blank" alt="ShwetaMishra0101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaMishra0101&" alt="ShwetaMishra0101" /></p>
 
