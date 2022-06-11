@@ -4,12 +4,12 @@
 </div>
 <div dispaly="flex">
 <div>
-<h2>Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>  there, I'm <a href="https://voluble-sprinkles-02bb29.netlify.app">SHWETA MISHRA!</a><img height="30px" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"/></h2> </div>
+<h2>Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>  there, I'm <a href="https://shweta-mishra-portfolio.netlify.app">SHWETA MISHRA!</a><img height="30px" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"/></h2> </div>
 <div>
 <h3>🙋‍♂️ About Me</h3>
 <p>I am a Full-Stack Web Developer and I love Programming and Gardning.</p>
 <li>🌱 I’m currently learning React.js</li>
-<li>👨‍💻 All of my projects are available at <a href="">My Protfolio</a></li>
+<li>👨‍💻 All of my projects are available at <a href="https://shweta-mishra-portfolio.netlify.app">My Protfolio</a></li>
 <li>📫 How to reach me <a href="shweta.aith@gmail.com">shweta.aith@gmail.com</a></li>
 <li>📄 Know about my experiences <a href="https://linkedin.com/in/shweta-mishra-66b8731a1">Linkedin</a></li>
 
@@ -33,6 +33,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaMishra0101&" alt="ShwetaMishra0101" /></p>
 
 <p><img align="left" src="https://camo.githubusercontent.com/d47988815c8fdeb2af1db163d6afb1e42361358253e5f709e0c5694e7999b163/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b61766973683732392673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="ShwetaMishra0101" /></p>
+
+
 
 
 </div>
