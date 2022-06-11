@@ -4,7 +4,7 @@
 </div>
 <div dispaly="flex">
 <div>
-<h2>Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>  there, I'm <a href="https://shweta-mishra-portfolio.netlify.app">SHWETA MISHRA!</a><img height="30px" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"/></h2> </div>
+<h2>Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>  there, I'm <a href="https://shweta-mishra-portfolio.netlify.app" target="_blank">SHWETA MISHRA!</a><img height="30px" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"/></h2> </div>
 <div>
 <h3>🙋‍♂️ About Me</h3>
 <p>I am a Full-Stack Web Developer and I love Programming and Gardning.</p>
@@ -28,7 +28,7 @@
 
 <a href="https://getbootstrap.com/" target="_blank"></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShwetaMishra0101&show_icons=true&locale=en"target="_blank" alt="ShwetaMishra0101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShwetaMishra0101&show_icons=true&locale=en" alt="ShwetaMishra0101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaMishra0101&" alt="ShwetaMishra0101" /></p>
 
