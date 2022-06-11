@@ -9,7 +9,7 @@
 <h3>🙋‍♂️ About Me</h3>
 <p>I am a Full-Stack Web Developer and I love Programming and Gardning.</p>
 <li>🌱 I’m currently learning React.js</li>
-<li>👨‍💻 All of my projects are available at <a href="https://shweta-mishra-portfolio.netlify.app" target="_blank">My Protfolio</a></li>
+<li>👨‍💻 All of my projects are available at <a href="shweta-mishra.netlify.app" target="_blank">My Protfolio</a></li>
 <li>📫 How to reach me <a href="shweta.aith@gmail.com">shweta.aith@gmail.com</a></li>
 <li>📄 Know about my experiences <a href="https://linkedin.com/in/shweta-mishra-66b8731a1" target="_blank">Linkedin</a></li>
 
