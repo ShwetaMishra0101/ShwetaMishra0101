@@ -51,9 +51,12 @@ I am also an open-source enthusiast and maintainer.</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaMishra0101&" alt="ShwetaMishra0101" /></p>
 
 <p><img align="left" src="https://camo.githubusercontent.com/d47988815c8fdeb2af1db163d6afb1e42361358253e5f709e0c5694e7999b163/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b61766973683732392673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="ShwetaMishra0101" /></p>
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaMishra0101&show_icons=true&theme=tokyonight)
+
+ ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaMishra0101&show_icons=true&theme=tokyonight)
 <img alt="Chiranjeev Thapliyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShwetaMishra0101&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
+ 
 
 
 </div>
 </div>
+
