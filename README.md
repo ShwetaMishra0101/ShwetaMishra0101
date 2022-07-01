@@ -32,25 +32,25 @@ I am also an open-source enthusiast and maintainer.</p>
 
 </p>
 
-<h1>I'm Currently Learning <img height="30px" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/> </h1>
+<h1>Languages and tools: <img height="30px" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/> </h1>
 
 </div>
 <h3>@Masai School</h3>
 <div>
-<img src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
-<img src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/>
-<img src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"/>
-<img src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642">
-
-<img src="https://camo.githubusercontent.com/9a7c7ebbabb2096c0ad0cac6f64bc9fe93f4954a3ae3f51d6f3e076ba462aab1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"/>
-
-<a href="https://getbootstrap.com/" target="_blank"></a>
+<a hrf='https://www.w3schools.com/css/'><img height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'/></a>
+<a hrf='https://html.com/'><img height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'/></a>
+<a hrf='https://developer.mozilla.org/en-US/docs/Web/JavaScript'><img height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'/></a>
+<a hrf='https://reactnative.dev/'><img height="40px" src='https://camo.githubusercontent.com/5c92eeb467fd5d2b1ef1c560e3c3c2f758a8d4e03a8136bda7b41a2d3d4a1b59/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667'/></a>
+<a href='https://git-scm.com/'><img height="40px" src='https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667'></a>
+<a href='https://babeljs.io/'><img height="40px" src='https://camo.githubusercontent.com/1abf71d00a4a13bfdeccdc131c65f02644fae4e746289bd7c21bf1d2af986389/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f626162656c6a732f626162656c6a732d69636f6e2e737667'></a>
+<a href='https://chakra-ui.com/'><img height="40px" src='https://chakra-ui.com/_next/image?url=%2Favatars%2F188034.jpg&w=64&q=75'></a>
+<a href='https://getbootstrap.com/'><img height="40px" src='https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png'></a>
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShwetaMishra0101&show_icons=true&locale=en" alt="ShwetaMishra0101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaMishra0101&" alt="ShwetaMishra0101" /></p>
 
-<p><img align="left" src="https://camo.githubusercontent.com/d47988815c8fdeb2af1db163d6afb1e42361358253e5f709e0c5694e7999b163/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b61766973683732392673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="ShwetaMishra0101" /></p>
 
  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaMishra0101&show_icons=true&theme=tokyonight)
 <img alt="Chiranjeev Thapliyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShwetaMishra0101&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
