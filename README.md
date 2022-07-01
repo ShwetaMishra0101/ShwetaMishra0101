@@ -47,10 +47,6 @@ I am also an open-source enthusiast and maintainer.</p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShwetaMishra0101&show_icons=true&locale=en" alt="ShwetaMishra0101" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaMishra0101&" alt="ShwetaMishra0101" /></p>
-
 
 <img alt="Chiranjeev Thapliyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShwetaMishra0101&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
  
