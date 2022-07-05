@@ -12,7 +12,7 @@
 <p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care ofarchitecture and code quality.<br>
 I am also an open-source enthusiast and maintainer.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShwetaMishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="ShwetaMisra" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starydv7" alt="py" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShwetaMishra0101" alt="ShwetaMishra0101" /></a> </p>
 
 <h3>🙋‍♂️ About Me</h3>
 <p>I am a Full-Stack Web Developer and I love Programming and Gardning.</p>
@@ -26,9 +26,9 @@ I am also an open-source enthusiast and maintainer.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shweta-mishra-66b8731a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-jaiswal-6587b1230/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shweta-mishra-66b8731a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwetaMishra" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/shwetamishra4040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_jaiswal123" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shwetamishra4040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shwetaMishra" height="30" width="40" /></a>
 
 </p>
 
@@ -48,7 +48,7 @@ I am also an open-source enthusiast and maintainer.</p>
 
 
 
-<img alt="Chiranjeev Thapliyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShwetaMishra0101&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
+<img alt="ShwetaMishra0101 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShwetaMishra0101&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
  
 
 
