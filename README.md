@@ -14,6 +14,11 @@ I am also an open-source enthusiast and maintainer.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShwetaMishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="ShwetaMisra" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShwetaMishra0101" alt="ShwetaMishra0101" /></a> </p>
 
+<div markdown="1">
+  <img align="left" src="https://komarev.com/ghpvc/?username=ShwetaMishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="ShwetaMishra0101" />
+  <a href="https://wakatime.com/@2b20e24d-1c57-4cf5-9cc3-46773ec9ca8d"><img src="https://wakatime.com/badge/user/2b20e24d-1c57-4cf5-9cc3-46773ec9ca8d.svg" alt="Total time coded since Apr 3 2022" /></a>
+</div>
+
 <h3>🙋‍♂️ About Me</h3>
 <p>I am a Full-Stack Web Developer and I love Programming and Gardning.</p>
 <li>🌱 I’m currently learning React.js</li>
