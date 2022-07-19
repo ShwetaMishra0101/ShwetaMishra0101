@@ -12,7 +12,7 @@
 <p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care ofarchitecture and code quality.<br>
 I am also an open-source enthusiast and maintainer.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShwetaMishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="ShwetaMisra" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShwetaMishra0101" alt="ShwetaMishra0101" /></a> </p>
+<p align="left"> <a href="https://github.com/ShwetaMishra0101/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShwetaMishra0101" alt="ShwetaMishra0101" /></a> </p>
 
 <h3>🙋‍♂️ About Me</h3>
 <p>I am a Full-Stack Web Developer and I love Programming and Gardning.</p>
