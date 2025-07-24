@@ -25,13 +25,13 @@ I am also an open-source enthusiast and maintainer.</p>
 <li>📫 How to reach me <a href="shweta.aith@gmail.com">shweta.aith@gmail.com</a></li>
 <li>📄 Know about my experiences <a href="https://linkedin.com/in/shweta-mishra-66b8731a1" target="_blank">Linkedin</a></li>
 
-<li>⚡Currently: Full Stack Web-Development from Masai School. B.Tech from Dr. Ambedikar Institue of Technoloy fo Handicaped, Kanpur</li>
+<!-- <li>⚡Currently: Full Stack Web-Development from Masai School. B.Tech from Dr. Ambedikar Institue of Technoloy fo Handicaped, Kanpur</li> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shweta-mishra-66b8731a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwetaMishra" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/shwetamishra4040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shwetaMishra" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/shwetamishra4040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shwetaMishra" height="30" width="40" /></a> -->
 
 </p>
 
