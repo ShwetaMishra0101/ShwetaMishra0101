@@ -20,12 +20,12 @@ I am also an open-source enthusiast and maintainer.</p>
 <h3>🙋‍♂️ About Me</h3>
 <p>I am a Full-Stack Web Developer and I love Programming and Gardning.</p>
 <li>🌱 I’m currently working in MEARN Stack</li>
-<li> All of my projects are available at <a herf="https://github.com/ShwetaMishra0101?tab=repositories" target="_blank">https://github.com/DeveshGoyal26?tab=repositories</a></li>
+<li> All of my projects are available at <a href="https://github.com/ShwetaMishra0101?tab=repositories" target="_blank">https://github.com/ShwetaMishra0101?tab=repositories</a></li>
 <li>👨‍💻 Here is My Portfolio - <a href="https://shweta-mishra.netlify.app/" target="_blank">click here</a></li>
 <li>📫 How to reach me <a href="shweta.aith@gmail.com">shweta.aith@gmail.com</a></li>
 <li>📄 Know about my experiences <a href="https://linkedin.com/in/shweta-mishra-66b8731a1" target="_blank">Linkedin</a></li>
 
-<!-- <li>⚡Currently: Full Stack Web-Development from Masai School. B.Tech from Dr. Ambedikar Institue of Technoloy fo Handicaped, Kanpur</li> -->
+<li>⚡Currently: Full Stack Web-Development from Masai School. B.Tech from Dr. Ambedikar Institue of Technoloy fo Handicaped, Kanpur</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
