@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShwetaMishra0101" alt="ShwetaMishra0101" /></a> </p>
 
 <h3> 💼 What I Do</h3>
-<p>🚀 Build scalable Web & Mobile Applications</p>
+<li>🚀 Build scalable Web & Mobile Applications</li>
 <li> ⚡ Optimize application performance and user experience</li>
 <li> Develop responsive and accessible UI</li>
 <li>🔐 Design secure REST APIs and authentication systems</li>
