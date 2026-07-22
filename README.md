@@ -15,7 +15,7 @@
 <p>I'm a Full-Stack Developer with 2+ years of professional experience building scalable web and mobile applications. I specialize in creating high-performance, user-centric products using modern JavaScript technologies. <br > Currently, I work across the full stack, developing responsive frontends with React, TypeScript, Astro, and Svelte, and building robust backend services using Node.js, Express, MongoDB, and SQL. <br> I'm passionate about writing clean, maintainable code, improving application performance, and solving real-world problems through technology. I enjoy learning new technologies, contributing to open-source projects, and sharing knowledge with the developer community.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShwetaMishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="ShwetaMisra" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShwetaMishra0101" alt="ShwetaMishra0101" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShwetaMishra0101" alt="ShwetaMishra0101" /></a> </p> -->
 
 <h3> 💼 What I Do</h3>
 <li>🚀 Build scalable Web & Mobile Applications</li>
